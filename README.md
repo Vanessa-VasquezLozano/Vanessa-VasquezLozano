@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  ## Spotify | Dashboard en PowerBI
+
+  ![Spotify](https://raw.githubusercontent.com/Vanessa-VasquezLozano/Vanessa-VasquezLozano/main/DashboardSpo.png)
