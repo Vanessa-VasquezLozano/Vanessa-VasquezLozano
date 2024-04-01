@@ -1,21 +1,24 @@
 <h1 align="center"> Hi, I'm Vane! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+#### Profesional apasionada por los datos, la gestión estratégica y la aplicación de frameworks ágiles. Busco que los datos conecten con las personas, generando impacto y facilitando la toma de decisiones informadas. 
+
 ## About me
-<picture> <img align="right" src="https://raw.githubusercontent.com/Vanessa-VasquezLozano/Vanessa-VasquezLozano/main/girl.gif" width = 400px></picture>
+<picture> <img align="right" src="https://raw.githubusercontent.com/Vanessa-VasquezLozano/Vanessa-VasquezLozano/main/girl.gif" width = 250px></picture>
 <p align="left">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Analista de datos y gestora empresarial 
+- ⚡ Certificada en metodologías ágiles 
+- 📫 Para contactarme escríbeme en ➞ cvanessa.vasquezlozano@gmail.com
+- 💬 Dato curioso: Busco ser un agente de cambio que transforma datos en resultados tangibles y significativos para conectar los datos con las personas y el negocio.
 
-  ## Spotify | Dashboard en PowerBI
 
-  ![Spotify](https://raw.githubusercontent.com/Vanessa-VasquezLozano/Vanessa-VasquezLozano/main/DashboardSpo.png)
+## Skills 
+
+    Python|Power-BI|Github|Business Model Canvas (BMC)|BigQuery(SQL)|Design Thining|Scrum
+    
+## Explora mis repositorios y descubre lo que estoy construyendo. 
+
+
+
+
