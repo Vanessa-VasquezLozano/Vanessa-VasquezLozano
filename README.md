@@ -13,7 +13,7 @@
 - 💬 Dato curioso: Busco ser un agente de cambio que transforma datos en resultados tangibles y significativos para conectar los datos con las personas y el negocio.
 
 
-## Skills 
+## Herramientas trabajadas
 
     Python|Power-BI|Github|Business Model Canvas (BMC)|BigQuery(SQL)|Design Thining|Scrum
     
