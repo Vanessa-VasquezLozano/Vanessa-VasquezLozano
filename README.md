@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Vane! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-#### Profesional apasionada por los datos, la gestión estratégica y la aplicación de frameworks ágiles. Busco que los datos conecten con las personas, generando impacto y facilitando la toma de decisiones informadas. 
+#### Profesional apasionada por los datos, la gestión estratégica y aplicación de frameworks ágiles. Busco que los datos conecten con las personas, generando impacto y facilitando la toma de decisiones informadas. 
 
 ## About me
 <picture> <img align="right" src="https://raw.githubusercontent.com/Vanessa-VasquezLozano/Vanessa-VasquezLozano/main/girl.gif" width = 250px></picture>
